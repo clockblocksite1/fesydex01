@@ -1,0 +1,1209 @@
+
+@media(max-width:430px){
+    .g1{
+        margin-left: 50px;
+        
+    }
+    .g2{
+        margin-left: 50px;
+        
+    }
+    .g3{
+        margin-left: 50px;
+        
+    }
+    .g4{
+        margin-left: 50px;
+        
+    }
+    .g5{
+        margin-left: 50px;
+        
+    }
+    .g6{
+        margin-left: 50px;
+        
+    }
+    .ht{
+   position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: 170px;
+  padding-left:76px ;
+
+    }
+    .container{
+        display: none;
+    }
+    .new{
+        display: none;
+    }
+    .goio{
+        position: absolute;
+        left: 0;
+       top: 0;
+       margin-top: 11px;
+       margin-left: 21px;
+       font-size: 16px;
+    }
+    .header-burger-btn {
+        display: block;
+        width: 40px;
+        height: 40px;
+        border: none;
+        background-color: white;
+        position: relative;
+        margin-left: 348px; 
+        top: 0;
+        left: 0;
+    }
+    .header-burger-btn span {
+        position: absolute;
+        width: 24px;
+        height: 3px;
+        left: 8px;
+        background-color: #1EAE68;
+    }
+    .header-burger-btn span:nth-child(1) {
+        top: 25px;
+    }
+    .header-burger-btn span:nth-child(2) {
+        top: 28px;
+    }
+    .header-burger-btn span:nth-child(3) {
+        top: 31px;
+    }
+    .cont {
+        display: block;
+        position: absolute;
+        margin-left: 0; 
+        color: #0A0C12;
+        font-size: 16px;
+        line-height: 33px;
+        font-family: Archivo, sans-serif;
+        font-weight: 700;
+        top: 0;
+        margin-top: -5px;
+        left: -270px; 
+        background-color: #F8F8F9;
+        width: 273px;
+        height: 735px;
+        z-index: 2;
+        padding-top: 96px;
+    }
+    
+    .container div, .cont img {
+        display: block;
+        margin-left: 50px; 
+    }
+
+    .header.open .cont {
+        transform: translateX(100%);
+        transition: transform .5s; 
+    }
+  
+    .Log{
+        display: none;
+    }
+    .Sign{
+        display: none;
+    }
+    .logo{
+        width: 136px;
+        height: 26.88px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+    .Create{
+        font-size: 14px;
+        position: absolute;
+        left:0 ;
+        top: 0;
+        margin-top: 88px;
+        margin-left: 128px;
+    }
+    .buy{
+        font-size: 36px;
+        position:absolute ;
+        left: 0;
+        top: 0;
+        margin-left: 60px;
+        margin-top: 117px;
+        white-space: nowrap;
+    }
+    .buy2{
+        font-size: 36px;
+        position:absolute ;
+        left: 0;
+        top: 0;
+        margin-left: 28px;
+        margin-top: 157px;
+        white-space: nowrap;
+    }
+    .buy3{
+        font-size: 36px;
+        position:absolute ;
+        left: 0;
+        top: 0;
+        margin-left: 58px;
+        margin-top: 197px;
+        white-space: nowrap;
+    }
+    .coins{
+        width: 291px;
+        height: 277.7px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 365px;
+        margin-left: 28px;
+    }
+    .fes{
+        font-size: 14px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        margin-left: 37px;
+        margin-top: 240px;
+        color: #000000
+        59%;
+        white-space: nowrap;
+        font-family:  
+Ginto, sans-serif;
+    }
+    .fes2{
+        font-size: 14px;
+        position: absolute;
+        top: 0;
+        left: 0;
+        margin-left: 60px;
+        margin-top: 260px;
+        color: #000000
+        59%;
+        white-space: nowrap;
+        font-family:  
+Ginto, sans-serif;
+    }
+    .start{
+        width: 170px;
+        height: 41.77px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        font-size: 14px;
+        margin-left: 20px;
+        margin-top: 307px;
+    }
+    .start2{
+        width: 170px;
+        height: 42px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        font-size: 14px;
+        margin-left: 200px;
+        margin-top: 307px;
+    }
+    .container2 {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .hot11{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: -175px;
+        margin-top: -50px;
+    }
+    .hot12{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: -175px;
+        margin-top: 310px;
+        
+    }
+    .hot13{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: -175px;
+        margin-top: 670px;
+    }
+    .hot14{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: -175px;
+        margin-top: 1030px;
+    }
+    .hot15{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: -175px;
+        margin-top: 1390px;
+    }
+    .wide{
+        display: none;
+    }
+    .we{
+        display: none;
+    }
+    .logo2{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 2533px;
+        margin-left: 20px;
+    }
+    .Bitcoin{
+        font-size: 18px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 89px;
+        margin-top: 2553px;
+    }
+    .BTC{
+        font-size: 14px;
+          position: absolute;
+          left: 0;
+          top: 0;
+          margin-left: 156px;
+          margin-top: 2556px;
+    }
+    .price{
+        display: none;
+    }
+    .change{
+        display: none;
+    }
+    .graff{
+        display: none;
+    }
+    .Trade{
+        width: 105px;
+        height: 42.84px;
+        font-size: 16px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 265px;
+        margin-top: 2544px;
+    }
+    .logo3{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 2613px;
+        margin-left: 20px;
+    }
+    .Ethereum{
+        font-size: 18px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 88.61px;
+        margin-top: 2633px;
+    }
+    .ETH{
+        font-size: 14px;
+          position: absolute;
+          left: 0;
+          top: 0;
+          margin-left: 177px;
+          margin-top: 2636px;
+    }
+    .price2{
+        display: none;
+    }
+    .change2{
+        display: none;
+    }
+    .graff2{
+        display: none;
+    }
+    .Trade2{
+        width: 105px;
+        height: 42.84px;
+        font-size: 16px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 265px;
+        margin-top: 2620px;
+    }
+    .logo4{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 2693px;
+        margin-left: 20px;
+    }
+    
+    .Bitcoin2 {
+        font-size: 18px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 88.61px;
+        margin-top: 2713px;
+    }
+    .BCH{
+        font-size: 14px;
+          position: absolute;
+          left: 0;
+          top: 0;
+          margin-left: 207px;
+          margin-top: 2715.5px;
+    }
+    .price3{
+        display: none;
+    }
+    .change3{
+        display: none;
+    }
+    .graff3{
+        display: none;
+    }
+    .Trade3{
+        width: 105px;
+        height: 42.84px;
+        font-size: 16px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 265px;
+        margin-top: 2696px;
+    }
+    .logo5{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 2769px;
+        margin-left: 20px;
+    }
+    
+    .Ripple {
+        font-size: 18px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 88.61px;
+        margin-top: 2789px;
+    }
+    .XRP{
+        font-size: 14px;
+          position: absolute;
+          left: 0;
+          top: 0;
+          margin-left: 152px;
+          margin-top: 2791.5px;
+    }
+    .price4{
+        display: none;
+    }
+    .change4{
+        display: none;
+    }
+    .graff4{
+        display: none;
+    }
+    .Trade4{
+        width: 105px;
+        height: 42.84px;
+        font-size: 16px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 265px;
+        margin-top: 2773px;
+    }
+    .logo6{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 2845px;
+        margin-left: 20px;
+    }
+    
+    .Chainlink {
+        font-size: 18px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 88.61px;
+        margin-top: 2866px;
+    }
+    .LINK{
+        font-size: 14px;
+          position: absolute;
+          left: 0;
+          top: 0;
+          margin-left: 177px;
+          margin-top: 2868.5px;
+    }
+    .price5{
+        display: none;
+    }
+    .change5{
+        display: none;
+    }
+    .graff5{
+        display: none;
+    }
+    .Trade5{
+        width: 105px;
+        height: 42.84px;
+        font-size: 16px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 265px;
+        margin-top: 2850px;
+    }
+    .logo7{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 2923px;
+        margin-left: 20px;
+    }
+    
+    .Tether {
+        font-size: 18px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 88.61px;
+        margin-top: 2944px;
+    }
+    .Usdt{
+        font-size: 14px;
+          position: absolute;
+          left: 0;
+          top: 0;
+          margin-left: 150px;
+          margin-top: 2946.5px;
+    }
+    .price6{
+        display: none;
+    }
+    .change6{
+        display: none;
+    }
+    .graff6{
+        display: none;
+    }
+    .Trade6{
+        width: 105px;
+        height: 42.84px;
+        font-size: 16px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 265px;
+        margin-top: 2928px;
+    }
+    .logo8{
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 3000px;
+        margin-left: 20px;
+    }
+    
+    .Dogecoin {
+        font-size: 18px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 88.61px;
+        margin-top: 3022px;
+    }
+    .Doge{
+        font-size: 14px;
+          position: absolute;
+          left: 0;
+          top: 0;
+          margin-left: 180px;
+          margin-top: 3024.5px;
+    }
+    .price7{
+        display: none;
+    }
+    .change7{
+        display: none;
+    }
+    .graff7{
+        display: none;
+    }
+    .Trade7{
+        width: 105px;
+        height: 42.84px;
+        font-size: 16px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 265px;
+        margin-top: 3005px;
+    }
+    .group{
+        width: 138px;
+        height: 49px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 3100px;
+        margin-left: 34px;
+    }
+    .group2{
+        width: 201px;
+        height: 45px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 3172px;
+        margin-left: 34px;
+    }
+    .group3{
+        width: 115px;
+        height: 45px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 3244px;
+        margin-left: 34px;
+    }
+    .group4{
+        width: 135px;
+        height: 45px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 3316px;
+        margin-left: 34px;
+    }
+    .dev{
+        font-size: 36px;
+        position: absolute;
+        font-weight: 700;
+        left: 0;
+        top: 0;
+        margin-left: 36px;
+        margin-top: 3415px;
+    }
+    .dev2{
+        font-size: 36px;
+        position: absolute;
+        font-weight: 700;
+        left: 0;
+        top: 0;
+        margin-left: 126px;
+        margin-top: 3460px;
+    }
+    .telefon2{
+        width: 273px;
+        height: 376px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 71px;
+        margin-top: 3515px;
+        display: block;
+    }
+    .telefon{
+       display: none;
+    }
+    .krug2{
+        display: block;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-top: 3891px;
+        margin-left: 20px;
+    }
+    .cus{
+        font-size: 18px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 69px;
+        margin-top: 3894px;
+    }
+.our{
+    font-size: 14px;
+    margin-left: 69px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 3925px;
+}
+.around{
+    font-size: 14px;
+    margin-left: 69px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 3940px;
+}
+.logo18{
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4005px;
+    margin-left: 20px;
+}
+.cr{
+    font-size: 18px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        margin-left: 67px;
+        margin-top: 4009px;
+}
+.for{
+    font-size: 14px;
+    margin-left: 69px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4040px;
+}
+.for2{
+    font-size: 14px;
+    margin-left: 69px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4055px;
+}
+.for3{
+    font-size: 14px;
+    margin-left: 69px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4070px;
+}
+.logo19{
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4120px;
+    margin-left: 20px;
+}
+.zero{
+    font-size: 18px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 67px;
+    margin-top: 4127px;
+}
+.for4{
+    font-size: 14px;
+    margin-left: 69px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4158px;
+}
+.for5{
+    font-size: 14px;
+    margin-left: 69px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4173px;
+}
+.tru{
+    font-size: 32px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4247px;
+    margin-left: 58px;
+}
+.an{
+    font-size: 33px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4283px;
+    margin-left: 24px;
+}
+.jo{
+    display: block;
+    font-size: 14px;
+    font-family:  
+    Gilroy, sans-serif;
+    left: 0;
+    top: 0;
+    margin-left: 18px;
+    margin-top: 4307px;
+    color: #5F6167;
+    font-weight: 600;
+}
+.trad{
+    display: block;
+    font-size: 14px;
+    font-family:  
+    Gilroy, sans-serif;
+    left: 0;
+    top: 0;
+    margin-left: 28px;
+    margin-top: 7px;
+    color: #5F6167;
+    font-weight: 600;
+}
+.inn{
+    display: block;
+    font-size: 14px;
+    font-family:  
+    Gilroy, sans-serif;
+    left: 0;
+    top: 0;
+    margin-left: 52px;
+    margin-top: 7px;
+    color: #5F6167;
+    font-weight: 600;
+}
+.inn2{
+    display: block;
+    font-size: 14px;
+    font-family:  
+    Gilroy, sans-serif;
+    left: 0;
+    top: 0;
+    margin-left: 102px;
+    margin-top: 7px;
+    color: #5F6167;
+    font-weight: 600;
+}
+.pn{
+    width: 349px;
+    height: 348px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 21px;
+    margin-top: 4456px;
+}
+.sign2{
+    width: 350px;
+    height: 72px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 4824px;
+    left: 0;
+    top: 0;
+    font-size: 20px;
+}
+.logo11{
+    width: 140px;
+    height: 30px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 125px;
+    margin-top: 4946px;
+}
+.inn3{
+    display: block;
+    font-size: 14px;
+    font-family:   
+Roboto, sans-serif;
+    left: 0;
+    top: 0;
+    margin-left: 21px;
+    margin-top: 4986px;
+    position: absolute;
+    color: #6B7081;
+    font-weight: 400;
+}
+.inn4{
+    display: block;
+    font-size: 14px;
+    font-family:   
+Roboto, sans-serif;
+    left: 0;
+    top: 0;
+    margin-left: 21px;
+    margin-top: 5001px;
+    position: absolute;
+    color: #6B7081;
+    font-weight: 400;
+}
+.inn5{
+    display: block;
+    font-size: 14px;
+    font-family:   
+Roboto, sans-serif;
+    left: 0;
+    top: 0;
+    margin-left: 61px;
+    margin-top: 5016px;
+    position: absolute;
+    color: #6B7081;
+    font-weight: 400;
+}
+.inn6{
+    display: block;
+    font-size: 14px;
+    font-family:   
+Roboto, sans-serif;
+    left: 0;
+    top: 0;
+    margin-left: 111px;
+    margin-top: 5031px;
+    position: absolute;
+    color: #6B7081;
+    font-weight: 400;
+}
+.list{
+    font-size: 12px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 86px;
+    margin-top: 5076px;
+}
+.list2{
+    font-size: 12px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 81px;
+    margin-top: 5091px;
+}
+.twitt{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 0;
+    top: 0;
+    margin-left: 127px;
+    margin-top: 5126px;
+}
+.inst{
+    position: absolute;
+    width: 41px;
+    height: 42px;
+    left: 0;
+    top: 0;
+    margin-left: 174px;
+    margin-top: 5126px;
+}
+.face{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 0;
+    top: 0;
+    margin-left: 220px;
+    margin-top: 5126px;
+}
+.god{
+    font-size: 18px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 86px;
+    margin-top: 5198px;
+}
+.enter{
+    width: 210px;
+    height: 44.8px;
+    position: absolute;
+    font-size: 16.8px;
+    margin-left: 20px;
+    margin-top: 5233px;
+    font-weight: 400;
+}
+.Subscribe1{
+    width: 126px;
+    height: 48px;
+    font-size: 16.8px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 244px;
+    margin-top: 5233px;
+}
+.Products{
+    font-size: 16x;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 20px;
+    margin-top: 5313px;
+}
+.container6{
+    white-space: nowrap;
+    position: absolute;
+    font-size: 12px;
+    left: 0;
+    top: 0;
+    margin-left: 20px;
+    margin-top: 5353px;
+}
+.Services{
+    font-size: 16x;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 217px;
+    margin-top: 5313px;
+}
+.container7{
+    white-space: nowrap;
+    position: absolute;
+    font-size: 12px;
+    left: 0;
+    top: 0;
+    margin-left: 217px;
+    margin-top: 5353px;
+}
+.Information{
+    font-size: 16x;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 20px;
+    margin-top: 5621px;
+}
+.container8{
+    white-space: nowrap;
+    position: absolute;
+    font-size: 12px;
+    left: 0;
+    top: 0;
+    margin-left: 20px;
+    margin-top:  5661px;
+}
+.Legal{
+    font-size: 16x;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 217px;
+    margin-top: 5621px;
+}
+.container9{
+    white-space: nowrap;
+    position: absolute;
+    font-size: 12px;
+    left: 0;
+    top: 0;
+    margin-left: 217px;
+    margin-top:  5661px;
+}
+.line{
+    width: 420px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1px;
+    margin-top: 5929px;
+   
+}
+.cold1{
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 5949px;
+    margin-left: 23px;
+    font-size: 12px;
+    font-family:   
+Roboto, sans-serif;
+    color: #6B7081;
+    font-weight: 400;
+}
+.cold2{
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 5964px;
+    margin-left: 20px;
+    font-size: 12px;
+    font-family:   
+Roboto, sans-serif;
+    color: #6B7081;
+    font-weight: 400;
+}
+.cold3{
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 5979px;
+    margin-left: 20px;
+    font-size: 12px;
+    font-family:   
+Roboto, sans-serif;
+    color: #6B7081;
+    font-weight: 400;
+}
+.cold4{
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 5993px;
+    margin-left: 110px;
+    font-size: 12px;
+    font-family:   
+Roboto, sans-serif;
+    color: #6B7081;
+    font-weight: 400;
+}
+.col{
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 6008px;
+    margin-left: 20px;
+    font-size: 12px;
+    font-family:   
+Roboto, sans-serif;
+    color: #6B7081;
+    font-weight: 400;
+}
+.cold5{
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 6023px;
+    margin-left: 20px;
+    font-size: 12px;
+    font-family:   
+Roboto, sans-serif;
+    color: #6B7081;
+    font-weight: 400;
+}
+.cold6{
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 6038px;
+    margin-left: 18px;
+    font-size: 12px;
+    font-family:   
+Roboto, sans-serif;
+    color: #6B7081;
+    font-weight: 400;
+}
+.cold7{
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 6053px;
+    margin-left: 111px;
+    font-size: 12px;
+    font-family:   
+Roboto, sans-serif;
+    color: #6B7081;
+    font-weight: 400;
+}
+.cold8{
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 6068px;
+    margin-left: 18px;
+    font-size: 12px;
+    font-family:   
+Roboto, sans-serif;
+    color: #6B7081;
+    font-weight: 400;
+}
+.cold9{
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 6083px;
+    margin-left: 18px;
+    font-size: 12px;
+    font-family:   
+Roboto, sans-serif;
+    color: #6B7081;
+    font-weight: 400;
+}
+.cold10{
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 6098px;
+    margin-left: 18px;
+    font-size: 12px;
+    font-family:   
+Roboto, sans-serif;
+    color: #6B7081;
+    font-weight: 400;
+}
+.all{
+    font-size: 16px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 70px;
+    margin-top: 6145px;
+    font-weight: 400;
+}
+.logo9{
+    display: none;
+}
+.logo10{
+    display: none;
+}
+.in2{
+    display: none;
+}
+.in3{
+    display: none;
+}
+.in4{
+    display: none;
+}
+.container5{
+    display: none;
+}
+.container4{
+    display: none;
+}
+    .con{
+        display: none;
+    }
+    .krug{
+        display: none;
+    }
+    .zag{
+        display: none;
+    }
+    .ot{
+        display: none;
+    }
+    .ot2{
+        display: none;
+    }
+    .ot3{
+        display: none;
+    }
+}

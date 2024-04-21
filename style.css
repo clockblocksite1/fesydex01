@@ -1,0 +1,1403 @@
+.header-burger-btn{
+    display: none;
+    position: relative;
+    width: 40px;
+    height: 40px;
+    border: none;
+    margin-left: 348px;
+    background-color: white;
+}
+.header-burger-btn span{
+    position: absolute;
+    width: 24px;
+    height: 3px;
+    background-color: #1EAE68;
+    left: 8px;
+}
+.header-burger-btn span:nth-child(1){
+       transform: translateY(-8px);
+}
+.header-burger-btn span:nth-child(3){
+    transform: translateY(8px);
+}
+.logo{
+    left: 0;
+    top: 0;
+    margin-left: 250px;
+    margin-top: 37px;
+    position: relative;
+    margin-right: auto; 
+}
+.container{
+    color:  #818181;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 37.5px;
+    gap: 60px;
+    margin-left: 723px;
+    display: flex;
+    font-family: Inter, sans-serif;
+}
+.new{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 974px;
+    margin-top: 23px;
+}
+.Log{
+    width: 131px;
+    height: 44px;
+    border: solid 2px  #1EAE68;
+   border-radius: 10px;
+   font-size: 16px;
+   color:  #1EAE68;
+   font-weight: 600;
+   position: absolute;
+   left: 0;
+    top: 0;
+    margin-left: 1376px;
+    margin-top: 35px;
+   background-color: rgb(0,0,0,0);
+}
+.Sign{
+    width: 145px;
+    height: 44px;
+    border:none;
+   border-radius: 10px;
+   font-size: 16px;
+   color:  
+   #FFFFFF;
+   position: absolute;
+   left: 0;
+    top: 0;
+    margin-left: 1525px;
+    margin-top: 35px;
+   background-color: #1EAE68;
+}
+.Create{
+    color: #1EAE68;
+    font-size: 25px;
+    font-weight: 600;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 184px;
+   margin-left: 250px;
+   font: Ginto
+}
+.buy {
+    font-size: 82px;
+    color: #000000;
+    font-weight: 600;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 250px;
+    margin-top: 239px;
+    font-family: Ginto, sans-serif;
+}
+b{
+    color: #1EAE68;
+}
+.buy2{
+    font-size: 82px;
+    color: #000000;
+    font-weight: 600;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 250px;
+    margin-top: 319px;
+    font-family: Ginto, sans-serif;
+}
+.buy3{
+    font-size: 82px;
+    color: #000000;
+    font-weight: 600;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 250px;
+    margin-top: 399px;
+    font-family: Ginto, sans-serif;
+}
+.fes{
+    color: #000000
+    59% ;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 249px;
+    margin-top: 518px;
+    font-family: Ginto, sans-serif;
+}
+.fes2{
+    color: #000000
+    59% ;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 249px;
+    margin-top: 538px;
+    font-family: Ginto, sans-serif;
+}
+.start{
+    width: 286px;
+    height: 66px;
+    background-color: #1EAE68;
+    color: #FFFFFF;
+    font-size: 20px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 250px;
+    margin-top: 598px;
+    border: none;
+    border-radius: 6px;
+}
+.start2{
+    width: 286px;
+    height: 66px;
+    border: solid 1.24px 
+    #06100B;
+    background-color: rgb(0,0,0,0);
+    font-size: 20px;
+    color: #000000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 598px;
+    margin-left: 605px;
+    border-radius: 6px;
+    font-family: Ginto, sans-serif;
+    font-weight: 600;
+}
+.coins{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1091px;
+    margin-top: 121px;
+}
+.cotainer2{
+   position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 250px;
+    margin-top: 749px;
+    gap: 55px;
+    display: flex;
+    white-space: nowrap;
+} 
+
+.wide{
+    font-size: 56px;
+    color: 
+    #110F18;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-weight: 700;
+    margin-top: 1160px;
+    margin-left: 666px;
+    font-family: Ginto, sans-serif;
+}
+.we{
+    color: #808889;
+    font-size: 18px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 1235px;
+    margin-left: 649px;
+    font-family: Ginto, sans-serif;
+}
+.logo2{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 1317px;
+    margin-left: 247px;
+}
+.Bitcoin{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 331px;
+    margin-top: 1334px;
+    font-size: 21px;
+    color: #000000;
+    font-family: 
+    Gilroy, sans-serif;
+    font-weight: 600;
+}
+.BTC{
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #757880;
+    font-family: 
+    Gilroy, sans-serif;
+    margin-left: 419px;
+    margin-top: 1334px;
+    font-size: 21px
+}
+.price{
+    font-size:19.83px ;
+    color: #000000;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 641px;
+    margin-top: 1334px;
+    font-family: Gilroy, sans-serif;
+    font-weight: 500;
+}
+.change{
+    color: #FF4545;
+    font-size: 19.83px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: Gilroy, sans-serif;
+    margin-top: 1334px;
+    margin-left: 922px;
+}
+.graff{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1316px;
+    margin-left: 1163px;
+}
+.Trade{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1325px;
+    margin-left: 1544px;
+    width: 125px;
+    height: 51px;
+    border: soild 2px 
+    #000000;
+    background-color: rgb(0,0,0,0);
+    border-radius: 10px;
+    font-size: 19.83px;
+    color: 
+    #000000;
+}
+.logo3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1421px;
+    margin-left: 247px;
+}
+.Ethereum{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 331px;
+    margin-top: 1439px;
+    font-size: 21px;
+    color: #000000;
+    font-family: 
+    Gilroy, sans-serif;
+    font-weight: 600;
+}
+.ETH{
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #757880;
+    font-family: 
+    Gilroy, sans-serif;
+    margin-left: 446px;
+    margin-top: 1439px;
+    font-size: 21px
+}
+.price2{
+    font-size:19.83px ;
+    color: #000000;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 641px;
+    margin-top: 1438px;
+    font-family: Gilroy, sans-serif;
+    font-weight: 500;
+}
+.change2{
+    color: #FF4545;
+    font-size: 19.83px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: Gilroy, sans-serif;
+    margin-top: 1439px;
+    margin-left: 922px;
+}
+.graff2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1420px;
+    margin-left: 1163px;
+}
+.Trade2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1430px;
+    margin-left: 1544px;
+    width: 125px;
+    height: 51px;
+    border: soild 2px 
+    #000000;
+    background-color: rgb(0,0,0,0);
+    border-radius: 10px;
+    font-size: 19.83px;
+    color: 
+    #000000;
+}
+.logo4{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1525px;
+    margin-left: 247px;
+}
+.Bitcoin2{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 331px;
+    margin-top: 1542px;
+    font-size: 21px;
+    color: #000000;
+    font-family: 
+    Gilroy, sans-serif;
+    font-weight: 600;
+}
+.BCH{
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #757880;
+    font-family: 
+    Gilroy, sans-serif;
+    margin-left: 485px;
+    margin-top: 1542px;
+    font-size: 21px
+}
+.price3{
+    font-size:19.83px ;
+    color: #000000;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 641px;
+    margin-top: 1542px;
+    font-family: Gilroy, sans-serif;
+    font-weight: 500;
+}
+.change3{
+    color: 
+    #17A300;
+    font-size: 19.83px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: Gilroy, sans-serif;
+    margin-top: 1542px;
+    margin-left: 922px;
+}
+.graff3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1525px;
+    margin-left: 1163px;
+}
+.Trade3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1533px;
+    margin-left: 1544px;
+    width: 125px;
+    height: 51px;
+    border: soild 2px 
+    #000000;
+    background-color: rgb(0,0,0,0);
+    border-radius: 10px;
+    font-size: 19.83px;
+    color: 
+    #000000;
+}
+.logo5{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1628px;
+    margin-left: 247px;
+}
+.Ripple{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 331px;
+    margin-top: 1645px;
+    font-size: 21px;
+    color: #000000;
+    font-family: 
+    Gilroy, sans-serif;
+    font-weight: 600;
+}
+.XRP{
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #757880;
+    font-family: 
+    Gilroy, sans-serif;
+    margin-left: 420px;
+    margin-top: 1645px;
+    font-size: 21px
+}
+.price4{
+    font-size:19.83px ;
+    color: #000000;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 641px;
+    margin-top: 1645px;
+    font-family: Gilroy, sans-serif;
+    font-weight: 500;
+}
+.change4{
+    color: 
+    #17A300;
+    font-size: 19.83px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: Gilroy, sans-serif;
+    margin-top: 1645px;
+    margin-left: 922px;
+}
+.graff4{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1628px;
+    margin-left: 1163px;
+}
+.Trade4{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1636px;
+    margin-left: 1544px;
+    width: 125px;
+    height: 51px;
+    border: soild 2px 
+    #000000;
+    background-color: rgb(0,0,0,0);
+    border-radius: 10px;
+    font-size: 19.83px;
+    color: 
+    #000000;
+}
+.logo6{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1731px;
+    margin-left: 247px;
+}
+.Chainlink{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 331px;
+    margin-top: 1748px;
+    font-size: 21px;
+    color: #000000;
+    font-family: 
+    Gilroy, sans-serif;
+    font-weight: 600;
+}
+.LINK{
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #757880;
+    font-family: 
+    Gilroy, sans-serif;
+    margin-left: 450px;
+    margin-top: 1748px;
+    font-size: 21px
+}
+.price5{
+    font-size:19.83px ;
+    color: #000000;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 641px;
+    margin-top: 1748px;
+    font-family: Gilroy, sans-serif;
+    font-weight: 500;
+}
+.change5{
+    color: 
+    #17A300;
+    font-size: 19.83px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: Gilroy, sans-serif;
+    margin-top: 1748px;
+    margin-left: 922px;
+}
+.graff5{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1731px;
+    margin-left: 1163px;
+}
+.Trade5{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1740px;
+    margin-left: 1544px;
+    width: 125px;
+    height: 51px;
+    border: soild 2px 
+    #000000;
+    background-color: rgb(0,0,0,0);
+    border-radius: 10px;
+    font-size: 19.83px;
+    color: 
+    #000000;
+}
+.logo7{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1832px;
+    margin-left: 247px;
+}
+.Tether{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 331px;
+    margin-top: 1850px;
+    font-size: 21px;
+    color: #000000;
+    font-family: 
+    Gilroy, sans-serif;
+    font-weight: 600;
+}
+.Usdt{
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #757880;
+    font-family: 
+    Gilroy, sans-serif;
+    margin-left: 419px;
+    margin-top: 1850px;
+    font-size: 21px
+}
+.price6{
+    font-size:19.83px ;
+    color: #000000;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 641px;
+    margin-top: 1850px;
+    font-family: Gilroy, sans-serif;
+    font-weight: 500;
+}
+.change6{
+    color: 
+    #FF4545;
+    font-size: 19.83px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: Gilroy, sans-serif;
+    margin-top: 1850px;
+    margin-left: 922px;
+}
+.graff6{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1834px;
+    margin-left: 1163px;
+}
+.Trade6{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1841px;
+    margin-left: 1544px;
+    width: 125px;
+    height: 51px;
+    border: soild 2px 
+    #000000;
+    background-color: rgb(0,0,0,0);
+    border-radius: 10px;
+    font-size: 19.83px;
+    color: 
+    #000000;
+}
+.logo8{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1935px;
+    margin-left: 247px;
+}
+.Dogecoin{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 331px;
+    margin-top: 1953px;
+    font-size: 21px;
+    color: #000000;
+    font-family: 
+    Gilroy, sans-serif;
+    font-weight: 600;
+}
+.Doge{
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #757880;
+    font-family: 
+    Gilroy, sans-serif;
+    margin-left: 456px;
+    margin-top: 1953px;
+    font-size: 21px
+}
+.price7{
+    font-size:19.83px ;
+    color: #000000;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 641px;
+    margin-top: 1952px;
+    font-family: Gilroy, sans-serif;
+    font-weight: 500;
+}
+.change7{
+    color: 
+    #FF4545;
+    font-size: 19.83px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-family: Gilroy, sans-serif;
+    margin-top: 1953px;
+    margin-left: 922px;
+}
+.graff7{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1935px;
+    margin-left: 1163px;
+}
+.Trade7{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1944px;
+    margin-left: 1544px;
+    width: 125px;
+    height: 51px;
+    border: soild 2px 
+    #000000;
+    background-color: rgb(0,0,0,0);
+    border-radius: 10px;
+    font-size: 19.83px;
+    color: 
+    #000000;
+}
+.group{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 2116px;
+    margin-left: 252px;
+}
+.group2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 2115px;
+    margin-left: 617px;
+}
+.group3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 2115px;
+    margin-left: 1084px;
+}
+.group4{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 2115px;
+    margin-left: 1443px;
+}
+.telefon{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 2304px;
+    margin-left: 207px;
+}
+.dev{
+    color: #110F18;
+    font-size: 56px;
+    font-family:  
+Roboto, sans-serif;
+    font-weight: 700;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 2325px;
+    margin-left: 1097px;
+    white-space: nowrap;
+}
+.dev2{
+    color: #110F18;
+    font-size: 56px;
+    font-family:  
+Roboto, sans-serif;
+    font-weight: 700;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 2385px;
+    margin-left: 1097px;
+}
+.con{
+    font-size: 21px;
+    color: #5F6167;
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 2472px;
+    margin-left: 1097px;
+    line-height: 33px;
+    white-space: nowrap;
+}
+.krug{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1097px;
+    margin-top: 2620px;
+}
+.cus{
+    font-family:  
+Roboto, sans-serif;
+font-size: 27px;
+color: #13111A;
+position: absolute;
+left: 0;
+top: 0;
+margin-left: 1173px;
+margin-top: 2620px;
+font-weight: 500;
+white-space: nowrap;
+}
+.our{
+    color: #5F6167;
+    font-size: 21px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1173px;
+    margin-top: 2670px;
+    white-space: nowrap;
+}
+.around{
+    color: #5F6167;
+    font-size: 21px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1173px;
+    margin-top: 2700px;
+    white-space: nowrap;
+}
+.logo9{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1097px;
+    margin-top: 2758px;
+}
+.cr{
+    font-family:  
+Roboto, sans-serif;
+font-size: 27px;
+color: #13111A;
+position: absolute;
+left: 0;
+top: 0;
+margin-left: 1173px;
+margin-top: 2758px;
+font-weight: 500;
+white-space: nowrap;
+}
+.for{
+    color: #5F6167;
+    font-size: 21px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1173px;
+    margin-top: 2808px;
+    white-space: nowrap;
+}
+.for2{
+    color: #5F6167;
+    font-size: 21px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1173px;
+    margin-top: 2838px;
+    white-space: nowrap;
+}
+.for3{
+    color: #5F6167;
+    font-size: 21px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1173px;
+    margin-top: 2868px;
+    white-space: nowrap;
+}
+.logo10{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1097px;
+    margin-top: 2930px;
+}
+.zero{
+    font-family:  
+    Roboto, sans-serif;
+    font-size: 27px;
+    color: #13111A;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1173px;
+    margin-top: 2930px;
+    font-weight: 500;
+    white-space: nowrap;
+}
+.for4{
+    color: #5F6167;
+    font-size: 21px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1173px;
+    margin-top: 2980px;
+    white-space: nowrap;
+}
+.for5{
+    color: #5F6167;
+    font-size: 21px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1173px;
+    margin-top: 3010px;
+    white-space: nowrap;
+}
+.zag{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 679px;
+    margin-top: 3208px;
+}
+.ot{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 250px;
+    margin-top: 3385px;
+}
+.ot2{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 769px;
+    margin-top: 3385px;
+}
+.ot3{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1288px;
+    margin-top: 3385px;
+}
+.tru{
+    color: #110F18;
+    font-size: 56px;
+    font-weight: 800;
+    font-family:  
+    Gilroy, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 250px;
+    margin-top: 4082px;
+    white-space: nowrap;
+}
+.an{
+    color: #110F18;
+    font-size: 56px;
+    font-weight: 800;
+    font-family:  
+    Gilroy, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 250px;
+    margin-top: 4152px;
+    white-space: nowrap;
+}
+.container4{
+    font-size: 21px;
+    color: #5F6167;
+    position: absolute;
+    display: block;
+    left: 0;
+    top: 0;
+    margin-top: 4238px;
+    margin-left: 250px;
+    white-space: nowrap;
+    line-height: 33px;
+    font-family:  
+    Gilroy, sans-serif;
+}
+.sign2{
+    width: 215px;
+    height: 72px;
+    border: none;
+    background-color: #1EAE68;
+    font-size: 20px;
+    font-family:  
+    Roboto, sans-serif;
+    font-weight: 600;
+    color: #FFFFFF;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 250px;
+    margin-top: 4395px;
+    border-radius: 9px;
+}
+.pn{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 1041px;
+    margin-top: 3951px;
+}
+.logo11{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 250px;
+    margin-top: 4773px;
+}
+.container5{
+    font-size: 14px;
+    color: #6B7081;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4833px;
+    margin-left: 249px;
+    font-family:  
+    Roboto, sans-serif;
+}
+.list{
+    font-size: 12px;
+    color: #6B7081;
+    position: absolute;
+    font-family:  
+    Roboto, sans-serif;
+    left: 0;
+    top: 0;
+    margin-top: 4959px;
+    margin-left: 249px;
+}
+b1{
+    color: #1EAE68;
+}
+.list2{
+    font-size: 12px;
+    color: #6B7081;
+    position: absolute;
+    font-family:  
+    Roboto, sans-serif;
+    left: 0;
+    top: 0;
+    margin-top: 4979px;
+    margin-left: 249px;
+}
+.twitt{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 249px;
+    margin-top: 5013px;
+}
+.inst{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 282px;
+    margin-top: 5013px;
+}
+.face{
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-left: 315px;
+    margin-top: 5013px;
+}
+.god{
+    color: #6B7081;
+    font-size: 14px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 5065px;
+    margin-left: 249px;
+    font-family:  
+    Roboto, sans-serif;
+}
+.enter{
+    color: #757575;
+    font-size: 12px;
+    width: 150px;
+    height: 32px;
+    border: solid 1px #D9D9D9;
+    border-radius: 5px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 5097px;
+    margin-left: 249px;
+}
+.Subscribe1{
+    width: 90px;
+    height: 30px;
+    background-color: #1EAE68;
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 5098px;
+    margin-left: 409px;
+    color: #FFFFFF;
+    font-size: 12px;
+}
+.line {
+    border-top: 1px solid #C4C4C4BF;
+    width: 1420px;
+    position: absolute;
+    left: 250px;
+    top: 5181px;
+}
+.in2{
+    font-size: 12px;
+    color: #6B7081;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 5212px;
+    margin-left: 370px;
+    white-space: nowrap;
+}
+.in3{
+    font-size: 12px;
+    color: #6B7081;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 5227px;
+    margin-left: 380px;
+    white-space: nowrap;
+}
+.in4{
+    font-size: 12px;
+    color: #6B7081;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 5242px;
+    margin-left: 460px;
+    white-space: nowrap;
+}
+.all{
+    font-size: 14px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 5276px;
+    margin-left: 851px;
+    color: #0E1018;
+}
+b2{
+    color: #1EAE68;
+}
+.Products{
+    font-size: 16px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4773px;
+    margin-left: 926px;
+    color: #0E1018;
+    font-weight: 600;
+}
+.container6{
+    display: block;
+    font-size: 14px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4813px;
+    margin-left: 926px;
+    gap: 9px;
+   color: #6B7081;
+   line-height: 27px;
+}
+.Services{
+    font-size: 16px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4773px;
+    margin-left: 1124px;
+    color: #0E1018;
+    font-weight: 600;
+}
+.container7{
+    display: block;
+    font-size: 14px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4813px;
+    margin-left: 1124px;
+    gap: 9px;
+   color: #6B7081;
+   line-height: 27px;
+}
+.Information{
+    font-size: 16px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4773px;
+    margin-left: 1316px;
+    color: #0E1018;
+    font-weight: 600;
+}
+.container8{
+    display: block;
+    font-size: 14px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4813px;
+    margin-left: 1316px;
+    gap: 9px;
+   color: #6B7081;
+   line-height: 27px;
+   white-space: nowrap;
+}
+.Legal{
+    font-size: 16px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4773px;
+    margin-left: 1491px;
+    color: #0E1018;
+    font-weight: 600;
+}
+.container9{
+    display: block;
+    font-size: 14px;
+    font-family:  
+    Roboto, sans-serif;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 4813px;
+    margin-left: 1491px;
+    gap: 9px;
+   color: #6B7081;
+   line-height: 27px;
+   white-space: nowrap;
+}
+
+.krug2{
+    display: none;
+}
+.telefon2{
+    display: none;
+}
+.logo18{
+    display: none;
+}
+.logo19{
+    display: none;
+}
+.jo{
+   display: none;
+}
+.trad{
+   display: none;
+}
+.inn{
+    display: none;
+}
+.inn2{
+   display: none;
+}
+.inn3{
+   
+    display: none;
+}
+.inn4{
+   display: none;
+}
+.inn5{
+    display: none;
+}
+.inn6{
+    display: none;
+}
+::placeholder{
+    padding-left: 16px;
+}
+.cold1{
+    display: none;
+}
+.cold2{
+    display: none;
+}
+.cold3{
+    display: none;
+}
+.cold04{
+    display: none;
+}
+.cold4{
+    display: none;
+}
+.cold5{
+    display: none;
+}
+.cold6{
+    display: none;
+}
+.cold7{
+    display: none;
+}
+.cold8{
+    display: none;
+}
+.cold9{
+    display: none;
+}
+.cold10{
+    display: none;
+
+}
+.col{
+    display: none;
+}
+.goio{
+    display: none;
+}
+.cont{
+    display: none;
+}
